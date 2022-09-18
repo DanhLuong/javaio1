@@ -1,2 +1,5 @@
-package org.example.javaiolearn;public class javaioExample {
+package org.example.javaiolearn;
+
+public class javaioExample {
+
 }
